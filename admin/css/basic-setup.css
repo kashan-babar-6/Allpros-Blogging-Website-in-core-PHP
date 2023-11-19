@@ -1,0 +1,25 @@
+/* Basic Setup */
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+}
+body {
+    background-color: #180C21;
+    overflow-x: hidden;
+}
+.weight-500 {
+    font-weight: 500;
+}
+.weight-600 {
+    font-weight: 600;
+}
+.weight-700 {
+    font-weight: 700;
+}
+.weight-800 {
+    font-weight: 800;
+}
+.text-dark-themed {
+    color: #180C21;
+}

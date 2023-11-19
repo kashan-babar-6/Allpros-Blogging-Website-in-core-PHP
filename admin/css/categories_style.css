@@ -1,0 +1,92 @@
+/* Table Section */
+.table th {
+    color: #F27405;
+    font-size: 20px;
+}
+.table td {
+    color: white;
+    font-size: 18px;
+}
+
+
+/* Add Category Section */
+.add-category-form label {
+    color: #F27405;
+    font-size: 20px;
+    font-weight: 600;
+}
+.add-category-form input {
+    border: 3px solid #F27405;
+    color: #180C21;
+    font-size: 20px;
+    font-weight: 600;
+    border-top-right-radius: 50px;
+}
+.add-category-form button {
+    background-color: #F27405;
+    color: white;
+    border: 1px solid #F27405;
+    border-top-right-radius: 30px;
+}
+.add-category-form button:hover {
+    background-color: white;
+    color: #F27405;
+    transition-duration: 0.2s;
+}
+
+/* Edit Category Section */
+.edit-category-form label {
+    color: #F27405;
+    font-size: 20px;
+    font-weight: 600;
+}
+.edit-category-form input {
+    border: 3px solid #F27405;
+    color: #180C21;
+    font-size: 20px;
+    font-weight: 600;
+    border-top-right-radius: 50px;
+}
+.edit-category-form select {
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px solid #F27405;
+    border-top-right-radius: 50px;
+}
+.edit-category-form button {
+    background-color: #F27405;
+    color: white;
+    border: 1px solid #F27405;
+    border-top-right-radius: 35px;
+}
+.edit-category-form button:hover {
+    background-color: white;
+    color: #F27405;
+    transition-duration: 0.2s;
+}
+
+/* Delete Category Section */
+.del-category-form label {
+    color: #F27405;
+    font-size: 20px;
+    font-weight: 600;
+}
+.del-category-form select {
+    font-size: 20px;
+    font-weight: 600;
+    border: 3px solid #F27405;
+    border-top-right-radius: 30px;
+}
+.del-category-form button {
+    background-color: #F27405;
+    color: white;
+    border: 1px solid #F27405;
+    border-top-right-radius: 30px;
+}
+.del-category-form button:hover {
+    background-color: white;
+    color: #F27405;
+    transition-duration: 0.2s;
+}
+
+

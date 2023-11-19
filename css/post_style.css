@@ -1,0 +1,32 @@
+/* Post Section */
+.post-heading {
+    color: #F27405;
+    font-weight: 700;
+}
+.post-category{
+    color: #F28705;
+    font-size: 20px;
+}
+.post-category:hover {
+    color: white;
+    transition-duration: 0.3s;
+}
+.post-date {
+    font-size: 20px;
+}
+.post-paragraph {
+    font-size: 22px;
+    color: white;
+    text-align: justify;
+}
+.para-first-letter {
+    font-size: 50px;
+    font-weight: 500;
+}
+.side-article-heading {
+    color: #F27405;
+}
+.side-article-heading:hover {
+    color: white;
+    transition-duration: 0.3s;
+}

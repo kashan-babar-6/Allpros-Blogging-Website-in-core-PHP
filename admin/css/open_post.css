@@ -1,0 +1,71 @@
+.del-btn, .edit-btn {
+    margin: 2px;
+    background-color: #F27405;
+    color: white;
+    border: 1px solid #F27405;
+    border-radius: 0px;
+    padding: 10px;
+    border-top-right-radius: 20px;
+    margin-right: 20px;
+}
+.del-btn:hover, .edit-btn:hover {
+    background-color: white;
+    color: #F27405;
+    transition-duration: 0.2s;
+    border: 1px solid #F27405;
+}
+.post-heading {
+    color: #F27405;
+    font-weight: 700;
+}
+.post-category{
+    color: #F28705;
+    font-size: 20px;
+}
+.post-paragraph {
+    font-size: 22px;
+    color: white;
+    text-align: justify;
+}
+.para-first-letter {
+    font-size: 50px;
+    font-weight: 500;
+}
+.post-date {
+    font-size: 20px;
+}
+
+/* Modal CSS Section */
+.modal-header {
+    background-color: #F27405;
+    color: #180C21;
+}
+.modal-body {
+    background-color: #180C21;
+    color: white;
+    font-size: 20px;
+}
+.modal-footer {
+    background-color: #F27405;
+}
+.cancel-btn {
+    background: none;
+    color: white;
+    border: none;
+    font-size: 18px;
+    margin-right: 10px;
+}
+.modal-del-btn {
+    background-color: #180C21;
+    border: 1px solid #180C21;
+    border-top-right-radius: 20px;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+.modal-del-btn:hover {
+    background-color: white;
+    color: #F27405;
+    border: 1px solid #F27405;
+    transition-duration: 0.2s;
+}
